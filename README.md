@@ -12,6 +12,7 @@
 [pyversions]: https://img.shields.io/pypi/pyversions/ocrmypdf "Supported Python versions"
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted.
+
 docker pull jbarlow83/ocrmypdf-alpine
 
 
