@@ -13,6 +13,7 @@
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted.
 
+Docker 鏡像：
 docker pull jbarlow83/ocrmypdf-alpine
 
 
